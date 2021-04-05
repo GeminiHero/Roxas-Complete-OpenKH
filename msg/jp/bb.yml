@@ -1,0 +1,19 @@
+- id: 17627
+  en: >-
+    {:unk0f 03 0F 00 6D 01}{:color #00F0F080}The Party Command has been added.{:reset}
+
+    This Command allows a quick exchange of Party Members.{:clear }Use this Command to switch Party Members
+
+    during battles where menus can't be opened.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:unk16 02} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Roxas's MP
+
+    and are executed with Party Members.
+- id: 17628
+  en: >-
+    {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:unk16 02} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Roxas's MP
+
+    and are executed with Party Members.
+ 

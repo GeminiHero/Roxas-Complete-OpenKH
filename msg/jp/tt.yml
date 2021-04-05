@@ -1,0 +1,73 @@
+- id: 15740
+  en: >-
+    Move the left stick to make Sora run.
+
+    Tilt it slightly to make Sora walk.
+- id: 16126
+  en: >-
+    There are many other save points besides this one.
+
+    Make good use of them, as they restore Sora´s HP
+
+    and MP.
+- id: 16132
+  en: >-
+    {:color #00F0F080}Sora has gained the use of Abilities.{:reset}
+
+    Equip abilities from the main menu.{:clear }After winning important battles, you level up,
+
+    increasing various parameters and learning
+
+    new attacks.{:clear }You can also level up by getting experience
+
+    from defeating enemies.{:clear }When you´re having a tough time with enemies,
+
+    level Sora up before moving on.
+- id: 16473
+  en: '{:unk13 96 01 67 00}{:unk08 01 01 06}Yo, Sora.'
+- id: 17158
+  en: >-
+    Move the left stick to make Sora run.
+
+    Tilt it slightly to make Sora walk.
+
+    Jump with {:icon button-circle}.
+
+    {:color #00F0F080}Approach the Armor Shop.{:reset}{:clear }
+- id: 17407
+  en: >-
+    Contestants:
+
+    Setzer, Seifer, Vivi,
+
+    Hayner, and Sora
+- id: 17441
+  en: Oh, hello, Sora.
+- id: 17461
+  en: >-
+    Hey, Sora! Reached your quota yet?
+
+    Each of us needs to make 800 munny!{:clear }The ocean´s waiting for us!
+
+    I´m counting on you!
+- id: 17465
+  en: Way to go, Sora!
+- id: 17467
+  en: >-
+    Whoa-ho Sora! You´re the man!
+
+    We can even buy a watermelon now!
+- id: 17615
+  en: >-
+    You can now view the status of Party Members
+
+    from the main menu.{:clear }All Sora´s abilities and munny have been
+
+    passed on to Roxas.{:clear }Jiminy´s Journal contains {:color #00F0F080}hints of what to do next{:reset}
+
+    and past events.
+- id: 21379
+  en: >-
+    {:unk13 2C 01 3C 00}{:unk08 01 01 06}Huh? Roxas, I think
+
+    you dropped something.
